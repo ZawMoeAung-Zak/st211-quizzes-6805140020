@@ -4,7 +4,6 @@
 
 - **Name:** Zaw Moe Aung
 - **Student ID:** 6805140020
-- **Course:** ST211
 
 ## Quiz 01
 
